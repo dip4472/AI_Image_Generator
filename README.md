@@ -1,14 +1,16 @@
 # MERN Stack AI Image Generation Application
 
  # Install Client Side Dependencies
- cd client npm i
- cd ..
+ cd client
+ npm i
+ 
  
  # Run front and backend
  npm run dev
  
  # Backend only
- cd server npm i
+ cd server
+ npm i
  npm start
  
 
